@@ -1,6 +1,6 @@
 # ACM AI Advanced Track Winter 19
 
-#### Link to Slides Used
+### Link to Slides Used
 
 __Workshop 1__ [Intro to ML](https://tinyurl.com/fatrack-sl-1)
 
