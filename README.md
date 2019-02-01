@@ -2,7 +2,9 @@
 
 #### Link to Slides Used
 
-*Workshop 1*: [Intro to ML](https://tinyurl.com/fatrack-sl-1)
+__Workshop 1__ [Intro to ML](https://tinyurl.com/fatrack-sl-1)
+
+__Workshop 2__ [Neural Networks](tinyurl.com/fatrack-sl-2)
 
 #### Setup Instructions
 
