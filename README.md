@@ -4,15 +4,15 @@
 
 __Workshop 1__ [Intro to ML](https://tinyurl.com/fatrack-sl-1)
 
-__Workshop 2__ [Neural Networks: Theory](tinyurl.com/fatrack-sl-2)
+__Workshop 2__ [Neural Networks: Theory](https://tinyurl.com/fatrack-sl-2)
 
-__Workshop 3__ [Neural Networks: Code](tinyurl.com/fatrack-sl-3)
+__Workshop 3__ [Neural Networks: Code](https://tinyurl.com/fatrack-sl-3)
 
-__Workshop 4__ [Convolutional Neural Networks: Theory](tinyurl.com/fatrack-sl-4)
+__Workshop 4__ [Convolutional Neural Networks: Theory](https://tinyurl.com/fatrack-sl-4)
 
-__Workshop 5__ [Convolutional Neural Networks: Code](tinyurl.com/fatrack-sl-5)
+__Workshop 5__ [Convolutional Neural Networks: Code](https://tinyurl.com/fatrack-sl-5)
 
-__Workshop 7__ [Autoencoders](tinyurl.com/fatrack-sl-7)
+__Workshop 7__ [Autoencoders](https://tinyurl.com/fatrack-sl-7)
 
 #### Setup Instructions
 
