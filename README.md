@@ -12,6 +12,8 @@ __Workshop 4__ [Convolutional Neural Networks: Theory](tinyurl.com/fatrack-sl-4)
 
 __Workshop 5__ [Convolutional Neural Networks: Code](tinyurl.com/fatrack-sl-5)
 
+__Workshop 7__ [Autoencoders](tinyurl.com/fatrack-sl-7)
+
 #### Setup Instructions
 
 ### Getting a Python and Machine Learning Environment Up and Running
@@ -105,14 +107,6 @@ hello = tf.constant('Hello, Tensorflow!')
 sess = tf.Session()
 print(sess.run(hello))
 ```
-
-If it runs without errors, you're good to go!#### Link to Slides Used
-
-*Workshop 1*: [https://tinyurl.com/aiadvancedf181](https://tinyurl.com/aiadvancedf181)
-
-*Workshop 2*: [https://tinyurl.com/aiadvancedf182](https://tinyurl.com/aiadvancedf182)
-
-*Workshop 3*: [https://tinyurl.com/aiadvancedf183](https://tinyurl.com/aiadvancedf183)
 
 #### Setup Instructions
 
