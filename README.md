@@ -5,3 +5,5 @@ Hi! We'll be continually updating this document with new workshops, extra help, 
 ### Links to Slides Used
 
 __Workshop 1__ [Intro + Logistic Review](https://tinyurl.com/advtrack-fall19-week3)
+
+__Workshop 2__ [Introduction to Neural Networks](https://tinyurl.com/advtrack-fall19-week4)
