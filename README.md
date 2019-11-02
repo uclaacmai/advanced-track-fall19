@@ -8,6 +8,6 @@ __Workshop 1__ [Intro + Logistic Review](https://tinyurl.com/advtrack-fall19-wee
 
 __Workshop 2__ [Introduction to Neural Networks](https://tinyurl.com/advtrack-fall19-week4)
 
-__Workshop 3__ [Neural Networks Code]
+__Workshop 3__ [Neural Networks Code] (https://tinyurl.com/advtrack-fall19-week5)
 
 __Workshop 4__ [Convolutional Neural Networks](https://tinyurl.com/advtrack-fall19-w5)
